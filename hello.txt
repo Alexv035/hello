@@ -3,3 +3,4 @@ New line
 hello world
 
 Hello, git!
+Hello, git rebase!
